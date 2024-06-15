@@ -1,0 +1,7 @@
+AddTextEntry("WEAPON_AR15", "M16A2")
+AddTextEntry("WEAPON_AK47", "AK 47")
+AddTextEntry("WEAPON_GLOCK20", "Glock 20")
+AddTextEntry("WEAPON_AKM", "AKM")
+AddTextEntry("WEAPON_GALIL", "GALIL")
+AddTextEntry("WEAPON_BPM", "Beretta PM-12S")
+AddTextEntry("WEAPON_TT33", "TT-33")
