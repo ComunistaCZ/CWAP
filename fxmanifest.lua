@@ -13,8 +13,6 @@ files{
 	'dlccustomweaponsounds/custom_weapon_sounds.awc',
 	'x16pistol/x16pistol_game.dat151.rel',
 	'x16pistol/x16pistol_sounds.dat54.rel',
-	'akrifle/akrifle_game.dat151.rel',
-	'akrifle/akrifle_sounds.dat54.rel',
 }
 
 data_file 'SCALEFORM_DLC_FILE' 'hud.gfx'
@@ -26,8 +24,6 @@ data_file 'WEAPONINFO_FILE' '**/weapons.meta'
 data_file 'AUDIO_WAVEPACK' 'dlccustomweaponsounds'
 data_file 'AUDIO_SOUNDDATA' 'x16pistol/x16pistol_sounds.dat'
 data_file 'AUDIO_GAMEDATA' 'x16pistol/x16pistol_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'akrifle/akrifle_sounds.dat'
-data_file 'AUDIO_GAMEDATA' 'akrifle/akrifle_game.dat'
 
 client_script 'cl_weaponNames.lua'
 
