@@ -11,6 +11,7 @@ files{
 	'**/pedpersonality.meta',
 	'**/weapons.meta',
 	'dlccustomweaponsounds/custom_weapon_sounds.awc',
+	'dlccustomweaponsounds/custom_weapon_sounds2.awc',
 	'x16pistol/x16pistol_game.dat151.rel',
 	'x16pistol/x16pistol_sounds.dat54.rel',
 	'akrifle/akrifle_game.dat151.rel',
