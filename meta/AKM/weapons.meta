@@ -17,7 +17,7 @@
 				<Item type="CWeaponInfo">
 					<Name>WEAPON_AKM</Name>
 					<Model>w_ar_akm</Model>
-					<Audio>AUDIO_ITEM_ASSAULTRIFLE</Audio>
+					<Audio>audio_item_akrifle</Audio>
 					<Slot>SLOT_WEAPON_AKM</Slot>
 					<DamageType>BULLET</DamageType>
 					<Explosion>
