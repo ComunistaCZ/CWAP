@@ -2,6 +2,7 @@ fx_version 'cerulean'
 games {'gta5'}
 description 'Add-on weapon generated using vWeaponsToolkit, OIV, CW'
 client_script 'client.lua'
+client_script 'client2.lua'
 
 files{
 	'hud.gfx',
